@@ -1,3 +1,11 @@
 .ipynb_checkpoints
 data_clean/
 data_test/
+*.pb
+*.data-00000-of-00001
+*.index
+*.jpg
+*.JPG
+*.jpeg
+*.png
+*.webp
