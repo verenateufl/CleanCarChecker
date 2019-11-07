@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 data_clean/
 data_test/
+snapshots/
+logs/
 *.pb
 *.data-00000-of-00001
 *.index
