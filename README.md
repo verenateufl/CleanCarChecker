@@ -1,5 +1,5 @@
 # CleanCarChecker (CCC)
-by Tom Hacker, Verena Teufl
+by Tom Hacker and Verena Teufl
 
 Image Classification of "normal" cars and e-cars.
 The neural network in use contains 5 convolution layers, 2 pooling layer. 
