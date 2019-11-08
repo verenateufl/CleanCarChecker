@@ -6,10 +6,10 @@ The neural network in use contains 5 convolution layers, 2 pooling layer.
 Between these and the 2 fully connected layers (1 normal, 1 softmax) is a flatten layer.
 
 The network achieves pretty good results (up to 75% testing accuracy). 
-![accuracy](img/accuracy.png)
+![accuracy](images/Accuracy.png)
 But the confusion matrix, the ROC curve and the AUC yield bad results. (AUC under 0.49).
 We tried around a lot with different network configurations and different batch sizes but couldn't get better results. 
-![roc](img/roc.png)
+![roc](images/roc.png)
 
 
 Problems:
