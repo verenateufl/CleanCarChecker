@@ -24,5 +24,5 @@ As the warnings had no mention of the image name we couldn't remove the images. 
 
 
 
-For more documentation, the code and results see the jupyter notebook.
+For more documentation, the code and results see the jupyter notebook (see CleanCarChecker/CleanCarChecker.jpynp).
 
